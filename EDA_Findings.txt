@@ -1,0 +1,37 @@
+TITANIC DATASET - EDA FINDINGS
+
+1. Dataset Overview
+- The dataset contains 891 passengers and 12 columns.
+- There are 0 duplicate rows.
+- Age has 177 missing values.
+- Cabin has 687 missing values.
+- Embarked has 2 missing values.
+
+2. Survival Analysis
+- 342 passengers survived.
+- 549 passengers did not survive.
+- Overall survival rate was approximately 38.38%.
+
+3. Gender Analysis
+- Female survival rate: 74.20%.
+- Male survival rate: 18.89%.
+- Females had a much higher survival rate than males.
+
+4. Passenger Class Analysis
+- 1st class survival rate: 62.96%.
+- 2nd class survival rate: 47.28%.
+- 3rd class survival rate: 24.24%.
+- 1st-class passengers had the highest survival rate.
+- 3rd-class passengers had the lowest survival rate.
+
+5. Visualizations Created
+- Survival count
+- Survival by gender
+- Survival by passenger class
+- Age distribution
+- Fare distribution
+
+Conclusion:
+The EDA shows that survival was strongly associated with gender and passenger class.
+Female passengers had substantially higher survival rates than male passengers.
+Passengers in higher classes also had higher survival rates.
